@@ -1,5 +1,5 @@
 export default function Skills() {
-  const skills = ['React', 'Laravel', 'Tailwind', 'Docker'];
+  const skills = ['Bóng chuyền,', 'Bóng rổ,', 'Bóng đá,', 'Cầu lông'];
   return (
     <div data-aos="fade-up" className="mt-8">
       <h3 className="text-2xl mb-2">Skills</h3>

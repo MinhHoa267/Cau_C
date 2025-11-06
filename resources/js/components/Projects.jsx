@@ -1,8 +1,8 @@
 export default function Projects() {
   const projects = [
-    { title: 'Portfolio Website', image: '/p1.jpg', desc: 'Personal portfolio using React.', link: '#' },
-    { title: 'Blog Platform', image: '/p2.jpg', desc: 'Laravel blog with admin panel.', link: '#' },
-    { title: 'Weather App', image: '/p3.jpg', desc: 'Weather forecast using API.', link: '#' },
+    { title: 'Portfolio Website', image: '/image/FB_IMG_1720961646901.jpg', desc: 'Xin chào', link: '#' },
+    { title: 'Blog Platform',image: '/image/FB_IMG_1720961646901.jpg', desc: 'Hello.', link: '#' },
+    { title: 'Weather App', image: '/image/FB_IMG_1720961646901.jpg', desc: 'Hi.', link: '#' },
   ];
   return (
     <div data-aos="fade-up" className="mt-8">
